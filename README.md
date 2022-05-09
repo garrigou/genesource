@@ -1,4 +1,4 @@
-# Project name
+# GeneSource
 ***
 Gestion des sources en généalogie.
 
